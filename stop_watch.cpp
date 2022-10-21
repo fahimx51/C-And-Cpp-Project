@@ -9,7 +9,9 @@ int main()
     while (1)
     {
         int hour, min, sec;
+
         cout << "\n\nenter hour, minute and second : ";
+        
         cin >> hour >> min >> sec;
         int h = 0, m = 0, s = 0;
 
